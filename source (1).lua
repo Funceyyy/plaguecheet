@@ -238,7 +238,7 @@ function OpenedColor(text,ColourDisplay,Action,def)
 	ANIMATEFRAME01.Parent = COLORPALLETE
 	ANIMATEFRAME01.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 	ANIMATEFRAME01.Position = UDim2.new(-0.0257352963, 0, -0.00666669384, 0)
-	ANIMATEFRAME01.Size = UDim2.new(0, 285, 0, 159)
+	ANIMATEFRAME01.Size = UDim2.new(0, 285, 0, 400)
 	ANIMATEFRAME01.ZIndex = 99
 	ANIMATEFRAME01.BorderSizePixel = 0;
 
@@ -620,7 +620,7 @@ WEBSITE.Position = UDim2.new(0.177174687, 0, 0.499190629, 0)
 WEBSITE.Size = UDim2.new(0, 197, 0, 23)
 WEBSITE.ZIndex = 3
 WEBSITE.Font = Enum.Font.ArialBold
-WEBSITE.Text = "UNDETEK !!" 
+WEBSITE.Text = "Plaguecheat.cc" 
 WEBSITE.TextColor3 = Color3.fromRGB(199, 199, 199)
 WEBSITE.TextSize = 14.000
 WEBSITE.TextXAlignment = Enum.TextXAlignment.Left
@@ -635,7 +635,7 @@ LABEL2.Position = UDim2.new(0.795508027, 0, 0.455712378, 0)
 LABEL2.Size = UDim2.new(0, 197, 0, 23)
 LABEL2.ZIndex = 3
 LABEL2.Font = Enum.Font.ArialBold
-LABEL2.Text = "UNDETEK !!"
+LABEL2.Text = "Funceyyy"
 LABEL2.TextColor3 = Color3.fromRGB(199, 199, 199)
 LABEL2.TextSize = 14.000
 LABEL2.TextXAlignment = Enum.TextXAlignment.Right
