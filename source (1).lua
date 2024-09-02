@@ -230,7 +230,7 @@ function OpenedColor(text,ColourDisplay,Action,def)
 	COLORPALLETE.BorderSizePixel = 0
 	COLORPALLETE.ClipsDescendants = true
 	COLORPALLETE.Position = UDim2.new(0.5, 0, 0.5, 0)
-	COLORPALLETE.Size = UDim2.new(0, 272, 0, 150)
+	COLORPALLETE.Size = UDim2.new(0, 272, 0, 400)
 	COLORPALLETE.ZIndex = 2
 	COLORPALLETE.Visible = false
 
@@ -247,7 +247,7 @@ function OpenedColor(text,ColourDisplay,Action,def)
 	Holder.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 	Holder.BackgroundTransparency = 1.000
 	Holder.BorderSizePixel = 0
-	Holder.Size = UDim2.new(0, 283, 0, 157)
+	Holder.Size = UDim2.new(0, 707.5, 0, 392.5)
 
 	BG.Name = "BG"
 	BG.Parent = Holder
@@ -255,14 +255,14 @@ function OpenedColor(text,ColourDisplay,Action,def)
 	BG.BorderColor3 = Color3.fromRGB(91, 133, 197)
 	BG.BorderSizePixel = 0
 	BG.Position = UDim2.new(0, 0, 0.157927245, 0)
-	BG.Size = UDim2.new(0, 272, 0, 125)
+	BG.Size = UDim2.new(0, 680, 0, 312.5)
 
 	S12.Name = "S12"
 	S12.Parent = BG
 	S12.BackgroundColor3 = Color3.fromRGB(18, 18, 18)
 	S12.BorderSizePixel = 0
 	S12.Position = UDim2.new(0, 16, 0, 7)
-	S12.Size = UDim2.new(0, 156, 0, 107)
+	S12.Size = UDim2.new(0, 390, 0, 267.5)
 	S12.ZIndex = 23
 
 	ColourWheel.Name = "ColourWheel"
@@ -272,9 +272,9 @@ function OpenedColor(text,ColourDisplay,Action,def)
 	ColourWheel.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 	ColourWheel.BackgroundTransparency = 1.000
 	ColourWheel.BorderSizePixel = 0
-	ColourWheel.Position = UDim2.new(0.418737918, 0, 0.491852999, 0)
+	ColourWheel.Position = UDim2.new(1.046844795, 0, 1.229632498, 0)
 	ColourWheel.Selectable = false
-	ColourWheel.Size = UDim2.new(0.599832177, 0, 0.86683917, 0)
+	ColourWheel.Size = UDim2.new(1.499580443, 0, 2.167097925, 0)
 	ColourWheel.ZIndex = 25
 	ColourWheel.Image = "http://www.roblox.com/asset/?id=6020299385"
 
@@ -337,7 +337,7 @@ function OpenedColor(text,ColourDisplay,Action,def)
 	S13.BackgroundColor3 = Color3.fromRGB(18, 18, 18)
 	S13.BorderSizePixel = 0
 	S13.Position = UDim2.new(0, 182, 0, 7)
-	S13.Size = UDim2.new(0, 79, 0, 109)
+	S13.Size = UDim2.new(0, 197.5, 0, 272.5)
 	S13.ZIndex = 23
 
 	SDFH.Name = "SDFH"
